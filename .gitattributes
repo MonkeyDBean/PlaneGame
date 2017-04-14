@@ -1,3 +1,4 @@
 *.js linguist-language=Javasript
 *.css linguist-language=Javasript
 *.html linguist-language=Javasript
+*.capx linguist-language=Javasript
